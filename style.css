@@ -5,6 +5,12 @@
     box-sizing: border-box;
 }
 
+.title{
+    font-size: 44px;
+    text-align: center;
+    color: #fff;
+}
+
 .container{
     width: 100%;
     min-height: 100vh;
